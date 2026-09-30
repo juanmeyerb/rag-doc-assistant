@@ -1,0 +1,23 @@
+[project]
+name = "rag-doc-assistant"
+version = "0.1.0"
+description = "Local RAG assistant that answers questions about PDF manuals with page citations"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chromadb>=1.5.9",
+    "lingua-language-detector>=2.2.0",
+    "ollama>=0.6.2",
+    "pymupdf>=1.28.2",
+    "streamlit>=1.64.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+filterwarnings = ["ignore:builtin type .* has no __module__ attribute:DeprecationWarning"]

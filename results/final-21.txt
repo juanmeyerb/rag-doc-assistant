@@ -1,0 +1,190 @@
+Model: llama3.1:8b | Collection: manuals
+
+=== 1. fritzbox-7530-ax_man_en.pdf | How do I connect the router to power?
+Expected: ['fritzbox-7530-ax_man_en.pdf:31']
+In top 5: yes ['fritzbox-7530-ax_man_en.pdf:31', 'fritzbox-7530-ax_man_en.pdf:39', 'fritzbox-7530-ax_man_en.pdf:46', 'fritzbox-7530-ax_man_en.pdf:42', 'fritzbox-7530-ax_man_en.pdf:44']
+Passed to model: yes ['fritzbox-7530-ax_man_en.pdf:31', 'fritzbox-7530-ax_man_en.pdf:39', 'fritzbox-7530-ax_man_en.pdf:46', 'fritzbox-7530-ax_man_en.pdf:42', 'fritzbox-7530-ax_man_en.pdf:44']
+Answer: To connect the router to power, plug the power adapter into a power socket, and then connect the power adapter to the socket on the FRITZ!Box labelled "Power". [1]
+Check these key facts: ['plug the power adapter into a socket', 'connect it to the Power socket on the FRITZ!Box']
+
+=== 2. kitchenaid-stand-mixer.pdf | Which speed should I use for bread dough?
+Expected: ['kitchenaid-stand-mixer.pdf:6']
+In top 5: yes ['kitchenaid-stand-mixer.pdf:6', 'kitchenaid-stand-mixer.pdf:7', 'kitchenaid-stand-mixer.pdf:14', 'kitchenaid-stand-mixer.pdf:5', 'kitchenaid-stand-mixer.pdf:11']
+Passed to model: yes ['kitchenaid-stand-mixer.pdf:6']
+Answer: You should use speed 2 for slow mixing, mashing, and faster stirring, which is suitable for mixing and kneading yeast doughs [1].
+Check these key facts: ['speed 2', 'do not exceed speed 2 for yeast doughs']
+
+=== 3. ecovacs-deebot-t90-pro-omni.pdf | How do I clean the filter?
+Expected: ['ecovacs-deebot-t90-pro-omni.pdf:18']
+In top 5: yes ['ecovacs-deebot-t90-pro-omni.pdf:18', 'ecovacs-deebot-t90-pro-omni.pdf:21', 'ecovacs-deebot-t90-pro-omni.pdf:15', 'ecovacs-deebot-t90-pro-omni.pdf:24', 'ecovacs-deebot-t90-pro-omni.pdf:22']
+Passed to model: yes ['ecovacs-deebot-t90-pro-omni.pdf:18', 'ecovacs-deebot-t90-pro-omni.pdf:21', 'ecovacs-deebot-t90-pro-omni.pdf:15', 'ecovacs-deebot-t90-pro-omni.pdf:24']
+Answer: To clean the filter, first remove the dust bin and then empty it [1]. Next, open the filter net and remove the filter [1]. Then, rinse the filter with water as shown [1]. Finally, shake off the water droplets [1].
+Check these key facts: ['rinse with water', 'no fingers or brushes', 'air-dry completely before use']
+
+=== 4. dyson-cordless-vacuum-de.pdf | How do I clean the filter?
+Expected: ['dyson-cordless-vacuum-de.pdf:17']
+In top 5: yes ['dyson-cordless-vacuum-de.pdf:17', 'dyson-cordless-vacuum-de.pdf:7', 'dyson-cordless-vacuum-de.pdf:10', 'dyson-cordless-vacuum-de.pdf:16', 'dyson-cordless-vacuum-de.pdf:18']
+Passed to model: yes ['dyson-cordless-vacuum-de.pdf:17', 'dyson-cordless-vacuum-de.pdf:7']
+Answer: To clean the filter, follow these steps:
+
+1. Shake the filter vigorously to remove excess water [1].
+2. Continue shaking until no more water comes out of the filter [1].
+3. Place the filter on the wider end and let it dry in a well-ventilated, warm area for at least 24 hours [1].
+4. After cleaning the filter, wash your hands thoroughly with antibacterial soap [1].
+5. Make sure the filter is completely dry before putting it back in the device [1].
+6. Wash the filter at least once a month to maintain optimal suction power [1].
+
+Note: Do not put the filter in a dishwasher, washing machine, dryer, oven, microwave, or near an open flame to dry [1].
+Check these key facts: ['answer in English', 'twist off, tap out, wash under water', 'dry at least 24 hours']
+
+=== 5. dyson-cordless-vacuum-de.pdf | Wie lade ich den Akku auf?
+Expected: ['dyson-cordless-vacuum-de.pdf:9']
+In top 5: yes ['dyson-cordless-vacuum-de.pdf:9', 'dyson-cordless-vacuum-de.pdf:5', 'dyson-cordless-vacuum-de.pdf:15', 'dyson-cordless-vacuum-de.pdf:3', 'dyson-cordless-vacuum-de.pdf:12']
+Passed to model: yes ['dyson-cordless-vacuum-de.pdf:9', 'dyson-cordless-vacuum-de.pdf:5']
+Answer: Um den Akku aufzuladen, musst du ihn in die Ladestation einsetzen oder direkt mit dem Netzteil verbinden. Während des Ladevorgangs blinken die blauen LEDs auf jeder Seite des Akkus. Wenn der Akku vollständig geladen ist, leuchten beide LEDs fünf Sekunden lang auf. Der Akku ist vollständig aufgeladen, sobald auf dem Display „100 %“ angezeigt wird. [1]
+Check these key facts: ['adapter or charging station', 'blue LEDs', 'not below 5 °C']
+
+=== 6. bosch-advanceddrill-18v-80.pdf | Wie lade ich den Akku auf?
+Expected: ['bosch-advanceddrill-18v-80.pdf:12']
+In top 5: yes ['bosch-advanceddrill-18v-80.pdf:12', 'bosch-advanceddrill-18v-80.pdf:9', 'bosch-advanceddrill-18v-80.pdf:13', 'bosch-advanceddrill-18v-80.pdf:10', 'bosch-advanceddrill-18v-80.pdf:14']
+Passed to model: yes ['bosch-advanceddrill-18v-80.pdf:12', 'bosch-advanceddrill-18v-80.pdf:9', 'bosch-advanceddrill-18v-80.pdf:13']
+Answer: Um den Akku aufzuladen, sollten Sie nur die in den technischen Daten aufgeführten Ladegeräte verwenden. Diese Ladegeräte sind auf den bei Ihrem Elektrowerkzeug verwendeten Li-Ionen-Akku abgestimmt. [1]
+
+Zusätzlich sollten Sie den Akku vor dem ersten Einsatz vollständig aufladen, da er teilgeladen ausgeliefert wird. [1]
+
+Wenn Sie den Akku laden möchten, sollten Sie die Ladegeräte verwenden, die vom Hersteller empfohlen werden. [2]
+
+Beachten Sie auch, dass Sie den Akku nicht außerhalb des in der Betriebsanleitung angegebenen Temperaturbereichs laden sollten. Falsches Laden oder Laden außerhalb des zugelassenen Temperaturbereichs kann den Akku zerstören und die Brandgefahr erhöhen. [2]
+Check these key facts: ['only the listed chargers', 'charge fully before first use']
+
+=== 7. fritzbox-7530-ax_man_en.pdf | How do I change the oil in my car?
+Expected: no answer
+Stopped before the model: yes []
+Answer: The manuals don't seem to cover this question.
+Check these key facts: ['says the manual does not cover this']
+
+=== 8. fritzbox-7530-ax_man_en.pdf | Where can I find the Wi-Fi password for my router?
+Expected: ['fritzbox-7530-ax_man_en.pdf:19']
+In top 5: yes ['fritzbox-7530-ax_man_en.pdf:36', 'fritzbox-7530-ax_man_en.pdf:19', 'fritzbox-7530-ax_man_en.pdf:35', 'fritzbox-7530-ax_man_en.pdf:154', 'fritzbox-7530-ax_man_en.pdf:266']
+Passed to model: yes ['fritzbox-7530-ax_man_en.pdf:36', 'fritzbox-7530-ax_man_en.pdf:19', 'fritzbox-7530-ax_man_en.pdf:35', 'fritzbox-7530-ax_man_en.pdf:154', 'fritzbox-7530-ax_man_en.pdf:266']
+Answer: According to the manual, the Wi-Fi password (WPA2) is printed on the type label on the housing of the FRITZ!Box [2].
+Check these key facts: ['on the type label on the housing', 'network key (Wi-Fi password)']
+
+=== 9. fritzbox-7530-ax_man_en.pdf | Does this router support Wi-Fi 6?
+Expected: ['fritzbox-7530-ax_man_en.pdf:255']
+In top 5: yes ['fritzbox-7530-ax_man_en.pdf:255', 'fritzbox-7530-ax_man_en.pdf:126', 'fritzbox-7530-ax_man_en.pdf:99', 'fritzbox-7530-ax_man_en.pdf:127', 'fritzbox-7530-ax_man_en.pdf:133']
+Passed to model: yes ['fritzbox-7530-ax_man_en.pdf:255', 'fritzbox-7530-ax_man_en.pdf:126', 'fritzbox-7530-ax_man_en.pdf:99', 'fritzbox-7530-ax_man_en.pdf:127', 'fritzbox-7530-ax_man_en.pdf:133']
+Answer: Yes, the router supports Wi-Fi 6. [1]
+Check these key facts: ['yes, Wi-Fi 6 (IEEE 802.11ax)', 'up to 600 Mbit/s on 2.4 GHz']
+
+=== 10. kitchenaid-stand-mixer.pdf | The beater keeps hitting the bottom of the bowl. How do I fix that?
+Expected: ['kitchenaid-stand-mixer.pdf:10', 'kitchenaid-stand-mixer.pdf:14']
+In top 5: yes ['kitchenaid-stand-mixer.pdf:10', 'kitchenaid-stand-mixer.pdf:8', 'kitchenaid-stand-mixer.pdf:13', 'kitchenaid-stand-mixer.pdf:7', 'kitchenaid-stand-mixer.pdf:14']
+Passed to model: yes ['kitchenaid-stand-mixer.pdf:10', 'kitchenaid-stand-mixer.pdf:8']
+Answer: To fix the issue, turn the speed control to off (0) and unplug the Stand Mixer. Then, lift the Motor Head and turn the screw slightly counterclockwise (left) to raise the Flat Beater*. Make the adjustment so that the Flat Beater* just clears the surface of the Bowl. [1]
+Check these key facts: ['turn to 0 and unplug first', 'lift motor head and turn the screw', 'counterclockwise raises, clockwise lowers the beater']
+
+=== 11. kitchenaid-stand-mixer.pdf | Can I put the wire whip in the dishwasher?
+Expected: ['kitchenaid-stand-mixer.pdf:14']
+In top 5: yes ['kitchenaid-stand-mixer.pdf:14', 'kitchenaid-stand-mixer.pdf:13', 'kitchenaid-stand-mixer.pdf:5', 'kitchenaid-stand-mixer.pdf:7', 'kitchenaid-stand-mixer.pdf:4']
+Passed to model: yes ['kitchenaid-stand-mixer.pdf:14']
+Answer: According to the manual, the answer depends on the model of your Stand Mixer. If you have model 5KSM200, 5KSM180, 5KSM185, or 5KSM193, the Wire Whip is dishwasher-safe. For all other models, you should wash it thoroughly in hot sudsy water and rinse completely before drying. [1]
+Check these key facts: ['only for models 5KSM200, 5KSM180, 5KSM185 and 5KSM193', 'otherwise wash by hand in hot sudsy water']
+
+=== 12. bosch-advanceddrill-18v-80.pdf | How do I switch the drill to reverse so I can take a screw out?
+Expected: ['bosch-advanceddrill-18v-80.pdf:20']
+In top 5: yes ['bosch-advanceddrill-18v-80.pdf:20', 'bosch-advanceddrill-18v-80.pdf:21', 'bosch-advanceddrill-18v-80.pdf:19', 'bosch-advanceddrill-18v-80.pdf:17', 'bosch-advanceddrill-18v-80.pdf:16']
+Passed to model: yes ['bosch-advanceddrill-18v-80.pdf:20', 'bosch-advanceddrill-18v-80.pdf:21']
+Answer: To switch the drill to reverse, press the rotational direction switch (7) through to the right stop. This will allow you to loosen and unscrew screws. [1]
+Check these key facts: ['press the rotational direction switch to the right stop', 'not possible while the on/off switch is pressed']
+
+=== 13. bosch-advanceddrill-18v-80.pdf | What is the maximum torque of the AdvancedImpact 18V-80?
+Expected: ['bosch-advanceddrill-18v-80.pdf:18']
+In top 5: yes ['bosch-advanceddrill-18v-80.pdf:4', 'bosch-advanceddrill-18v-80.pdf:7', 'bosch-advanceddrill-18v-80.pdf:18', 'bosch-advanceddrill-18v-80.pdf:3', 'bosch-advanceddrill-18v-80.pdf:21']
+Passed to model: yes ['bosch-advanceddrill-18v-80.pdf:4', 'bosch-advanceddrill-18v-80.pdf:7', 'bosch-advanceddrill-18v-80.pdf:18', 'bosch-advanceddrill-18v-80.pdf:3', 'bosch-advanceddrill-18v-80.pdf:21']
+Answer: The maximum torque of the AdvancedImpact 18V-80 is 82 Nm for screwdriving with a soft screwdriving application, according to ISO 5393 [3].
+Check these key facts: ['82 Nm']
+
+=== 14. bosch-advanceddrill-18v-80.pdf | Can I use the angle adapter when impact drilling?
+Expected: ['bosch-advanceddrill-18v-80.pdf:20']
+In top 5: yes ['bosch-advanceddrill-18v-80.pdf:20', 'bosch-advanceddrill-18v-80.pdf:18', 'bosch-advanceddrill-18v-80.pdf:17', 'bosch-advanceddrill-18v-80.pdf:21', 'bosch-advanceddrill-18v-80.pdf:19']
+Passed to model: yes ['bosch-advanceddrill-18v-80.pdf:20', 'bosch-advanceddrill-18v-80.pdf:18']
+Answer: No, you cannot use the off-set angle adapter (16) and angle screw adapter (17) for impact drilling operating mode. [1]
+Check these key facts: ['no, not permitted', 'applies to the off-set angle adapter and the angle screw adapter']
+
+=== 15. ecovacs-deebot-t90-pro-omni.pdf | How often do I need to replace the side brush?
+Expected: ['ecovacs-deebot-t90-pro-omni.pdf:17']
+In top 5: yes ['ecovacs-deebot-t90-pro-omni.pdf:19', 'ecovacs-deebot-t90-pro-omni.pdf:17', 'ecovacs-deebot-t90-pro-omni.pdf:25', 'ecovacs-deebot-t90-pro-omni.pdf:29', 'ecovacs-deebot-t90-pro-omni.pdf:28']
+Passed to model: yes ['ecovacs-deebot-t90-pro-omni.pdf:19', 'ecovacs-deebot-t90-pro-omni.pdf:17']
+Answer: According to the manual, you need to replace the side brush every 3-6 months [2].
+Check these key facts: ['replace every 3-6 months', 'clean every 2 weeks']
+
+=== 16. ecovacs-deebot-t90-pro-omni.pdf | The robot won't connect to the app. What can I check?
+Expected: ['ecovacs-deebot-t90-pro-omni.pdf:26']
+In top 5: yes ['ecovacs-deebot-t90-pro-omni.pdf:26', 'ecovacs-deebot-t90-pro-omni.pdf:6', 'ecovacs-deebot-t90-pro-omni.pdf:5', 'ecovacs-deebot-t90-pro-omni.pdf:27', 'ecovacs-deebot-t90-pro-omni.pdf:14']
+Passed to model: yes ['ecovacs-deebot-t90-pro-omni.pdf:26', 'ecovacs-deebot-t90-pro-omni.pdf:6', 'ecovacs-deebot-t90-pro-omni.pdf:5', 'ecovacs-deebot-t90-pro-omni.pdf:27', 'ecovacs-deebot-t90-pro-omni.pdf:14']
+Answer: According to the manual, if the robot won't connect to the app, you can check the following:
+
+* Make sure the Wi-Fi username and password entered are correct [1].
+* Ensure DEEBOT is within range of your home Wi-Fi signal. Try to stay as close to the router as possible [1].
+* Check if the Wi-Fi name contains special characters. Please do not use special characters like ! @#& ¥%/\ [1].
+* Do not use a 5 GHz network [1].
+* Check if an incorrect App is installed. Please refer to the【Download ECOVACS HOME APP】section to download and install the App [1].
+* Ensure that DEEBOT's charging contacts have connected to the station's charging contacts and flashes. Check whether DEEBOT's and OMNI station's charging contacts are dirty. Please clean these parts according to the instructions in the【REGULAR MAINTENANCE】section [4].
+
+You can also refer to the Wi-Fi Network Requirements in section 5 of the manual [5] to ensure that your network meets the necessary conditions for the robot to connect to the app.
+Check these key facts: ['correct Wi-Fi name and password', 'do not use a 5 GHz network', 'no special characters in the Wi-Fi name']
+
+=== 17. ecovacs-deebot-t90-pro-omni.pdf | I left the robot in another room for a day and now it doesn't react at all. What happened?
+Expected: ['ecovacs-deebot-t90-pro-omni.pdf:17']
+In top 5: NO ['ecovacs-deebot-t90-pro-omni.pdf:6', 'ecovacs-deebot-t90-pro-omni.pdf:29', 'ecovacs-deebot-t90-pro-omni.pdf:5', 'ecovacs-deebot-t90-pro-omni.pdf:28', 'ecovacs-deebot-t90-pro-omni.pdf:27']
+Passed to model: NO []
+Answer: The manuals don't seem to cover this question.
+Check these key facts: ['deep sleep mode after about 10 hours off the station', 'switch off and on again', 'if no response, put it back on the station to charge']
+
+=== 18. dyson-cordless-vacuum-de.pdf | When should I empty the dust bin, and how do I do it?
+Expected: ['dyson-cordless-vacuum-de.pdf:10']
+In top 5: yes ['dyson-cordless-vacuum-de.pdf:10', 'dyson-cordless-vacuum-de.pdf:19', 'dyson-cordless-vacuum-de.pdf:9', 'dyson-cordless-vacuum-de.pdf:17', 'dyson-cordless-vacuum-de.pdf:18']
+Passed to model: yes ['dyson-cordless-vacuum-de.pdf:10', 'dyson-cordless-vacuum-de.pdf:19', 'dyson-cordless-vacuum-de.pdf:9', 'dyson-cordless-vacuum-de.pdf:17', 'dyson-cordless-vacuum-de.pdf:18']
+Answer: According to the manual [1], page 10, you should empty the dust bin when the dirt reaches the MAX mark on the bin. To empty the bin, follow these steps:
+
+1. Close the opening of the bin with a dust-tight plastic bag.
+2. Press the silver button to open the bin floor.
+3. Carefully remove the dust bin, close the plastic bag tightly, and dispose of it.
+4. Empty the bin as soon as the dirt reaches the MAX mark – do not overfill the bin.
+
+If the bin is overfilled, the particle count may be inaccurate. Make sure the device is turned off before removing the suction tube or the bin.
+Check these key facts: ['answer in English', 'empty at the MAX mark, do not overfill', 'switch off first', 'press the silver release lever over the bin']
+
+=== 19. dyson-cordless-vacuum-de.pdf | Mein Staubsauger zeigt eine Blockierung an. Was soll ich tun?
+Expected: ['dyson-cordless-vacuum-de.pdf:6']
+In top 5: yes ['dyson-cordless-vacuum-de.pdf:6', 'dyson-cordless-vacuum-de.pdf:12', 'dyson-cordless-vacuum-de.pdf:7', 'dyson-cordless-vacuum-de.pdf:14', 'dyson-cordless-vacuum-de.pdf:1']
+Passed to model: yes ['dyson-cordless-vacuum-de.pdf:6', 'dyson-cordless-vacuum-de.pdf:12', 'dyson-cordless-vacuum-de.pdf:7']
+Answer: Wenn dein Staubsauger eine Blockierung anzeigt, solltest du das Gerät von der Oberfläche weg bewegen und es erneut starten, um zu sehen, ob das Problem weiterhin besteht [3]. Wenn dies der Fall ist, überprüfe den Lufteinlass auf Blockierungen und die Bürstwalze auf Staub- und Schmutzablagerungen. Nimm die Außenabdeckung ab und überprüfe alles auf Blockierungen. Die Bürstwalzen können ebenfalls entfernt werden, um diese auf Staub- und Schmutzablagerungen zu überprüfen. Sobald du dichergestellt hast, dass alles frei von Blockierungen und Ablagerungen ist, setze die Bodendüse wieder auf und starte das Gerät erneut [3].
+Check these key facts: ['switch off before checking', 'the animation shows which air inlet to check']
+
+=== 20. dyson-cordless-vacuum-de.pdf | How many minutes does the battery last on a full charge?
+Expected: no answer
+Stopped before the model: yes []
+Answer: The manuals don't seem to cover this question.
+Check these key facts: ['says the manual does not state the runtime in minutes', 'may mention that the display shows remaining runtime']
+
+=== 21. dyson-cordless-vacuum-de.pdf | Como cambio el filtro?
+Expected: ['dyson-cordless-vacuum-de.pdf:17']
+In top 5: yes ['dyson-cordless-vacuum-de.pdf:17', 'dyson-cordless-vacuum-de.pdf:7', 'dyson-cordless-vacuum-de.pdf:10', 'dyson-cordless-vacuum-de.pdf:15', 'dyson-cordless-vacuum-de.pdf:16']
+Passed to model: yes ['dyson-cordless-vacuum-de.pdf:17', 'dyson-cordless-vacuum-de.pdf:7', 'dyson-cordless-vacuum-de.pdf:10', 'dyson-cordless-vacuum-de.pdf:15']
+Answer: Para cambiar el filtro, sigue estos pasos:
+
+1. Entleere el filtro y schüttle ihn kräftig, um überschüssiges Wasser zu entfernen. [1]
+2. Stelle den Filter auf das breitere Ende und lasse ihn an einem gut belüfteten, warmen Ort mindestens 24 Stunden lang trocknen. [1]
+3. Wasche deine Hände sorgfältig mit antibakterieller Seife nachdem du den Filter gereinigt hast. [1]
+4. Stelle sicher, dass die Filtereinheit vollständig getrocknet ist. [1]
+5. Setze die Filtereinheit wieder in das Hauptgerät ein und drehe sie im Uhrzeigersinn, bis sie einrastet. [1]
+
+Recuerda que el filtro debe ser cambiado al menos una vez al mes para mantener una optimale Saugkraft. [1]
+Check these key facts: ['entire answer in Spanish', 'says the manual describes washing, not replacing', 'wash at least once a month (not replace)']
+
+=== Summary
+Expected page in top 5: 18/19
+Expected page passed to model: 18/19
+No-answer questions stopped before the model: 2/2

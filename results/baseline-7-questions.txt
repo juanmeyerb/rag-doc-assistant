@@ -1,0 +1,68 @@
+
+=== 1. fritzbox-7530-ax_man_en.pdf | How do I connect the router to power?
+Expected: ['fritzbox-7530-ax_man_en.pdf:31']
+In top 5: yes ['fritzbox-7530-ax_man_en.pdf:31', 'fritzbox-7530-ax_man_en.pdf:39', 'fritzbox-7530-ax_man_en.pdf:46', 'fritzbox-7530-ax_man_en.pdf:42', 'fritzbox-7530-ax_man_en.pdf:44']
+Passed to model: yes ['fritzbox-7530-ax_man_en.pdf:31', 'fritzbox-7530-ax_man_en.pdf:39', 'fritzbox-7530-ax_man_en.pdf:46', 'fritzbox-7530-ax_man_en.pdf:42', 'fritzbox-7530-ax_man_en.pdf:44']
+Answer: To connect the router to power, plug the power adapter into a power socket, and then connect the power adapter to the socket on the FRITZ!Box labelled "Power". [1]
+Check these key facts: ['plug the power adapter into a socket', 'connect it to the Power socket on the FRITZ!Box']
+
+=== 2. kitchenaid-stand-mixer.pdf | Which speed should I use for bread dough?
+Expected: ['kitchenaid-stand-mixer.pdf:6']
+In top 5: yes ['kitchenaid-stand-mixer.pdf:6', 'kitchenaid-stand-mixer.pdf:7', 'kitchenaid-stand-mixer.pdf:14', 'kitchenaid-stand-mixer.pdf:5', 'kitchenaid-stand-mixer.pdf:11']
+Passed to model: yes ['kitchenaid-stand-mixer.pdf:6']
+Answer: You should use speed 2 for slow mixing, mashing, and faster stirring, which is suitable for mixing and kneading yeast doughs [1].
+Check these key facts: ['speed 2', 'do not exceed speed 2 for yeast doughs']
+
+=== 3. ecovacs-deebot-t90-pro-omni.pdf | How do I clean the filter?
+Expected: ['ecovacs-deebot-t90-pro-omni.pdf:18']
+In top 5: yes ['ecovacs-deebot-t90-pro-omni.pdf:18', 'ecovacs-deebot-t90-pro-omni.pdf:21', 'ecovacs-deebot-t90-pro-omni.pdf:15', 'ecovacs-deebot-t90-pro-omni.pdf:24', 'ecovacs-deebot-t90-pro-omni.pdf:22']
+Passed to model: yes ['ecovacs-deebot-t90-pro-omni.pdf:18', 'ecovacs-deebot-t90-pro-omni.pdf:21', 'ecovacs-deebot-t90-pro-omni.pdf:15', 'ecovacs-deebot-t90-pro-omni.pdf:24']
+Answer: To clean the filter, first remove the dust bin and then empty it [1]. Next, open the filter net and remove the filter [1]. Then, rinse the filter with water as shown [1]. Finally, shake off the water droplets [1].
+Check these key facts: ['rinse with water', 'no fingers or brushes', 'air-dry completely before use']
+
+=== 4. dyson-cordless-vacuum-de.pdf | How do I clean the filter?
+Expected: ['dyson-cordless-vacuum-de.pdf:17']
+In top 5: yes ['dyson-cordless-vacuum-de.pdf:17', 'dyson-cordless-vacuum-de.pdf:7', 'dyson-cordless-vacuum-de.pdf:10', 'dyson-cordless-vacuum-de.pdf:16', 'dyson-cordless-vacuum-de.pdf:18']
+Passed to model: yes ['dyson-cordless-vacuum-de.pdf:17', 'dyson-cordless-vacuum-de.pdf:7']
+Answer: To clean the filter, follow these steps:
+
+1. Shake the filter vigorously to remove excess water [1].
+2. Continue shaking until no more water comes out of the filter [1].
+3. Place the filter on the wider end and let it dry in a well-ventilated, warm area for at least 24 hours [1].
+4. After cleaning the filter, wash your hands thoroughly with antibacterial soap [1].
+5. Make sure the filter is completely dry before putting it back in the device [1].
+6. Wash the filter at least once a month to maintain optimal suction power [1].
+
+Note: Do not put the filter in a dishwasher, washing machine, dryer, oven, microwave, or near an open flame to dry [1].
+Check these key facts: ['answer in English', 'twist off, tap out, wash under water', 'dry at least 24 hours']
+
+=== 5. dyson-cordless-vacuum-de.pdf | Wie lade ich den Akku auf?
+Expected: ['dyson-cordless-vacuum-de.pdf:9']
+In top 5: yes ['dyson-cordless-vacuum-de.pdf:9', 'dyson-cordless-vacuum-de.pdf:5', 'dyson-cordless-vacuum-de.pdf:15', 'dyson-cordless-vacuum-de.pdf:3', 'dyson-cordless-vacuum-de.pdf:12']
+Passed to model: yes ['dyson-cordless-vacuum-de.pdf:9', 'dyson-cordless-vacuum-de.pdf:5']
+Answer: Um den Akku aufzuladen, musst du ihn in die Ladestation einsetzen oder direkt mit dem Netzteil verbinden. Während des Ladevorgangs blinken die blauen LEDs auf jeder Seite des Akkus. Wenn der Akku vollständig geladen ist, leuchten beide LEDs fünf Sekunden lang auf. Der Akku ist vollständig aufgeladen, sobald auf dem Display „100 %“ angezeigt wird. [1]
+Check these key facts: ['adapter or charging station', 'blue LEDs', 'not below 5 °C']
+
+=== 6. bosch-advanceddrill-18v-80.pdf | Wie lade ich den Akku auf?
+Expected: ['bosch-advanceddrill-18v-80.pdf:12']
+In top 5: yes ['bosch-advanceddrill-18v-80.pdf:12', 'bosch-advanceddrill-18v-80.pdf:9', 'bosch-advanceddrill-18v-80.pdf:13', 'bosch-advanceddrill-18v-80.pdf:10', 'bosch-advanceddrill-18v-80.pdf:14']
+Passed to model: yes ['bosch-advanceddrill-18v-80.pdf:12', 'bosch-advanceddrill-18v-80.pdf:9', 'bosch-advanceddrill-18v-80.pdf:13']
+Answer: Um den Akku aufzuladen, sollten Sie nur die in den technischen Daten aufgeführten Ladegeräte verwenden. Diese Ladegeräte sind auf den bei Ihrem Elektrowerkzeug verwendeten Li-Ionen-Akku abgestimmt. [1]
+
+Zusätzlich sollten Sie den Akku vor dem ersten Einsatz vollständig aufladen, da er teilgeladen ausgeliefert wird. [1]
+
+Wenn Sie den Akku laden möchten, sollten Sie die Ladegeräte verwenden, die vom Hersteller empfohlen werden. [2]
+
+Beachten Sie auch, dass Sie den Akku nicht außerhalb des in der Betriebsanleitung angegebenen Temperaturbereichs laden sollten. Falsches Laden oder Laden außerhalb des zugelassenen Temperaturbereichs kann den Akku zerstören und die Brandgefahr erhöhen. [2]
+Check these key facts: ['only the listed chargers', 'charge fully before first use']
+
+=== 7. fritzbox-7530-ax_man_en.pdf | How do I change the oil in my car?
+Expected: no answer
+Stopped before the model: yes []
+Answer: The manuals don't seem to cover this question.
+Check these key facts: ['says the manual does not cover this']
+
+=== Summary
+Expected page in top 5: 6/6
+Expected page passed to model: 6/6
+No-answer questions stopped before the model: 1/1
